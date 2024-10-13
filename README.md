@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Micaiah-Agono
-- 👀 I’m interested in coding and programming intelligent systems
+- 👀 I’m interested in helping business grow with data-driven decisions
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data analytics, AI and Machine Learning Projects
 - 📫 You can mail me at agonomicaiah@gmail.com
