@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping business grow with data-driven decisions
 - 💞️ I’m looking to collaborate on Data analytics, AI and Machine Learning Projects
 - 📫 You can mail me at agonomicaiah@gmail.com
-- 🌱 I’m on linkedin @linkedin.com/in/micaiah-agono-778b49181
+- 🌱 I’m on linkedin @ linkedin.com/in/micaiah-agono-778b49181
 - 😄 Pronouns: He
 - ⚡ Fun fact: There is a country of 11,000 people which is located about midway between Hawaii and Australia called Tuvalu
 
